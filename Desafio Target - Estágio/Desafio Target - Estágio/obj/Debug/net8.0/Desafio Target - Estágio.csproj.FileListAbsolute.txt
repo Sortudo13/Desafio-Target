@@ -1,0 +1,14 @@
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\bin\Debug\net8.0\Desafio Target - Estágio.exe
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\bin\Debug\net8.0\Desafio Target - Estágio.deps.json
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\bin\Debug\net8.0\Desafio Target - Estágio.runtimeconfig.json
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\bin\Debug\net8.0\Desafio Target - Estágio.dll
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\bin\Debug\net8.0\Desafio Target - Estágio.pdb
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\Desafio Target - Estágio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\Desafio Target - Estágio.AssemblyInfoInputs.cache
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\Desafio Target - Estágio.AssemblyInfo.cs
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\Desafio Target - Estágio.csproj.CoreCompileInputs.cache
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\Desafio Target - Estágio.dll
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\refint\Desafio Target - Estágio.dll
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\Desafio Target - Estágio.pdb
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\Desafio Target - Estágio.genruntimeconfig.cache
+D:\Ryan\Documents\Workbench\Programação\C#\Desafio Target - Estágio\Desafio Target - Estágio\obj\Debug\net8.0\ref\Desafio Target - Estágio.dll
